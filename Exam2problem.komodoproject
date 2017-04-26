@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="871a1551-500e-6141-8da3-0d642b542903" kpf_version="5" name="Exam2problem.komodoproject">
+<livefolder id="2cb6a59b-8c44-6c4c-802a-f52a15a8e348" idref="871a1551-500e-6141-8da3-0d642b542903" name="js" url=".komodotools/js/">
+</livefolder>
+<livefolder id="e1d2ec06-e874-324c-8138-9ca41369050e" idref="871a1551-500e-6141-8da3-0d642b542903" name="styles" url=".komodotools/styles/">
+</livefolder>
+<preference-set idref="871a1551-500e-6141-8da3-0d642b542903" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
